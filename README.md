@@ -1,16 +1,19 @@
 ## Hi there 👋
+## I'm Sharjeel 👋
 
-<!--
-**Plesnte25/Plesnte25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Entry-level Web Developer (MERN Stack)  
+💻 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Into The Wild Stays (Full Stack App)
+- Admin Dashboard (CRUD + Analytics)
+- Network Traffic Analyzer
+
+## 📫 Contact
+Email: sharjeel.work9@gmail.com
