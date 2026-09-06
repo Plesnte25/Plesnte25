@@ -6,15 +6,14 @@ I learn by shipping. Right now that means learning German, preparing application
 
 ## 🚀 Flagship project
 
-### [Deutschland Companion](https://github.com/Plesnte25/deutschland-companion)
+### [AzubiWeg](https://github.com/Plesnte25/AzubiWeg)
 An all-in-one platform for people preparing to move to Germany — built because I'm one of them.
 
-- 🃏 German vocabulary manager with **SM-2 spaced repetition**
-- 🔄 **Two-way sync with an Obsidian vault** — byte-identical markdown round-tripping, file watchers, schedule compatibility with the Obsidian Spaced Repetition plugin
-- 📖 Automatic word enrichment from Wiktionary: meaning, IPA, grammar, example sentences, and pronunciation audio (Wikimedia Commons + neural TTS)
+- 🃏 German vocabulary manager with **SM-2 spaced repetition** and two-way Obsidian vault sync (byte-identical markdown round-tripping)
+- 🎒 Job Search — kanban application tracker with a CV shelf and best-effort autofill from a pasted posting URL
+- 📚 Learning Progress Hub — CEFR syllabus, a generated day-by-day study roadmap, exam-gated level progression, self-tests
+- 🎨 A full dark-mode UI redesign ("Nocturne") with a real desktop layout, built solo against a Claude Design handoff
 - ⚙️ React 19 · TypeScript · Tailwind 4 · Express 5 · PostgreSQL · Prisma 7
-
-*Roadmap: German-style CV builder, application tracker, and document checklist — the full journey in one app.*
 
 ## 📦 More projects
 
@@ -23,7 +22,7 @@ An all-in-one platform for people preparing to move to Germany — built because
 | [Into The Wild Stays](https://github.com/Plesnte25/Into_the_Wild_Stays) | Hospitality platform — customer booking site + admin back-office for pricing, bookings, and analytics | MERN |
 | [Inventory Management System](https://github.com/Plesnte25/inventory-management-system) | Full-stack inventory system for logistics/manufacturing operations | Spring Boot · React · Docker |
 | [CSET MVP](https://github.com/Plesnte25/CSET-mvp) | End-to-end warehouse tooling MVP for sellers | Python |
-| [German Vocab Dictionary](https://github.com/Plesnte25/german-vocab-dictionary) | Obsidian-based flashcard system with automatic Wiktionary enrichment — the predecessor that grew into Deutschland Companion | Python · Obsidian |
+| [German Vocab Dictionary](https://github.com/Plesnte25/german-vocab-dictionary) | Obsidian-based flashcard system with automatic Wiktionary enrichment — the predecessor that grew into AzubiWeg | Python · Obsidian |
 
 ## 🔧 Tech stack
 
@@ -35,7 +34,7 @@ An all-in-one platform for people preparing to move to Germany — built because
 ## 🌱 Currently
 
 - 🇩🇪 Learning German (working towards Goethe certification) — with my own app
-- 🏗️ Building Deutschland Companion V2: CV builder & application tracker
+- 🏗️ Clearing AzubiWeg's post-redesign bug backlog after shipping the Nocturne UI rebuild
 - 🎯 Goal: Ausbildung in Germany, 2027 intake
 
 ## 📫 Contact
